@@ -25,7 +25,7 @@ export function Comment({ content, onDeleteComment }: CommentProps) {
    
     return (
         <div className={styles.comment}>
-            <Avatar hasBorder={false} src='src\assets\avatar1.svg' alt="" />
+            <Avatar hasBorder={false} src='https://sm.ign.com/t/ign_br/cover/j/john-wick-/john-wick-chapter-4_129x.128.jpg' alt="" />
 
             <div className={styles.commentBox}>
                 <div className={styles.commentContent}>
