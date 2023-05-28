@@ -27,7 +27,7 @@ const posts: PostType[] = [
   {
     id: 2,
     author: {
-      avatarUrl:'https://media.licdn.com/dms/image/C5603AQENRsJI0Q-Luw/profile-displayphoto-shrink_400_400/0/1611344151842?e=1683763200&v=beta&t=-ikl5rXRiWBLRTeO2OeadcMGO_CahJy7J7Jc0td7uB8',
+      avatarUrl:'https://www.estudarfora.org.br/wp-content/uploads/2021/01/mando.jpg',
       name:'Danyelle L.',
       role:'Designer'
     },
